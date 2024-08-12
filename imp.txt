@@ -1,0 +1,47 @@
+// Listen to Events
+// audioElement.addEventListener('timeupdate', ()=>{ 
+//     // Update Seekbar
+//     progress = parseInt((audioElement.currentTime/audioElement.duration)* 100); 
+//     myprogressbar.value = progress;
+// })
+// myprogressbar.addEventListener('change', ()=>{
+//     audioElement.currentTime = myprogressbar.value * audioElement.duration/100;
+// })
+
+
+
+<!-- <audio src="Tere Hawaale - (Raag.Fm).mp3" id="A"></audio>
+    <img src="imges.jpg" alt="" onclick="a()">
+    <button class="btn btn-success" onclick="a()">Play</button> -->
+
+
+    <!-- <section class="bg-dark text-light">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="card-header my-2">
+                        <img src="imges.jpg" alt="">
+                    </div>
+                    <div class="card-body ">
+                         <audio src="Tere Hawaale - (Raag.Fm).mp3" id="A"></audio>
+                        <h3 class="mx-2"><i class="fa-solid fa-play fa-lg mx-2" style="color: #f5f5f5;" onclick="a()"></i>Tere Hawale </h3>
+                    
+        
+                    </div>
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="card-header my-2">
+                        <img src="imges.jpg" alt="">
+                    </div>
+                    <div class="card-body ">
+                         <audio src="Satranga Animal 128 Kbps.mp3" id="B"></audio>
+                        <h3 class="mx-2"><i class="fa-solid fa-play fa-lg mx-2" style="color: #f5f5f5;" onclick="b()"></i>Staranga </h3>
+                    
+        
+                    </div>
+                </div>
+        
+            </div>
+        
+        </div>
+           </section> -->
